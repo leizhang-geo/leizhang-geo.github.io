@@ -73,21 +73,20 @@
 
 # Codes
 - Direct and indirect impacts of urbanization on vegetation growth across the world’s cities \
-**Global urban vegetation analysis** <[Code](https://github.com/zlxy9892/Global_Urbanization_Impacts_on_Vegetation.git)>
+**Global urban vegetation analysis** <[Code](https://github.com/leizhang-geo/Global_Urbanization_Impacts_on_Vegetation.git)>
 
 - A CNN-LSTM model for soil organic carbon content prediction using phenological variables \
-**A CNN-LSTM model for SOC preditive mapping** <[Code](https://github.com/zlxy9892/CNN-LSTM_for_DSM.git)>
+**A CNN-LSTM model for SOC preditive mapping** <[Code](https://github.com/leizhang-geo/CNN-LSTM_for_DSM.git)>
 
 - Spatiotemporal causal convolutional network for predicting air pullution (PM2.5) concentrations \
-**ST-CausalConvNet** <[Code](https://github.com/zlxy9892/ST-CausalConvNet.git)>
+**ST-CausalConvNet** <[Code](https://github.com/leizhang-geo/ST-CausalConvNet.git)>
 
 <a name="Awards"></a>
 
 # Honors & Awards
 - First Prize in Best Paper Award in conference of graduate students of geographic information science in Jiangsu, China, 2017. Awarded by Geographical Society of China.
 
-- First Prize in Outstanding Graduate Thesis Award of Jiangsu province in China, 2016. Awarded by 
-the Ministry of Education.
+- First Prize in Outstanding Graduate Thesis Award of Jiangsu province in China, 2016. Awarded by the Ministry of Education.
 
 - Global GIS Young Scholar Award (Jack Dangermond’s special award), in San Diego, USA, 2015 (No. 11 in: [Link](http://www.arcgis.com/apps/MapTour/index.html?appid=a383612f79354488929beabcd266cd77))
 
