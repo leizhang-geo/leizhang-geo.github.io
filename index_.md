@@ -1,7 +1,3 @@
-<head>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
-</head>
-
 <table border="0">
   <tr>
     <td width="30%">
@@ -28,17 +24,6 @@
     <!-- <a href="#Professional">Professional Service</a> / -->
     <a href="#Awards">Honors & Awards</a>
 ]
-
-<table border="0">
-  <tr>
-    <td width="30%">
-      <script src="_layouts/src/sketch.js"></script>
-    </td>
-    <td width="70%" align="center" valign="middle">
-      
-    </td>
-  </tr>
-</table>
 
 <a name="Research"></a>
 
