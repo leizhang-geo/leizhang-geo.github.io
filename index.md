@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="30%">
-      <img src="./img/L.Z.jpg" width="100%">
+      <img src="./img/LZ.jpg" width="100%">
     </td>
     <td width="70%" align="center" valign="middle">
       <h1><font color="#005AB5">Lei Zhang (张磊)</font></h1>
