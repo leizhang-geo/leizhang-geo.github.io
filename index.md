@@ -25,6 +25,8 @@
     <a href="#Awards">Honors & Awards</a>
 ]
 
+<script src="src/sketch.js"></script>
+
 <a name="Research"></a>
 
 # Research Interests
