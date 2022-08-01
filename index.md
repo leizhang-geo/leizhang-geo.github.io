@@ -25,7 +25,16 @@
     <a href="#Awards">Honors & Awards</a>
 ]
 
-<script src="src/sketch.js"></script>
+<table border="0">
+  <tr>
+    <td width="30%">
+      <script src="_layouts/src/sketch.js"></script>
+    </td>
+    <td width="70%" align="center" valign="middle">
+      
+    </td>
+  </tr>
+</table>
 
 <a name="Research"></a>
 
