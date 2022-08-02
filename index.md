@@ -28,6 +28,10 @@
 <a name="Research"></a>
 
 # Research Interests
+<div align="center">
+  <img src="./img/landscape.jpg" width="95%">
+</div>
+
 - Geoscience, Remote sensing, GIScience
 - Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
 - Geostatistics, Spatial predictive model, Digital soil mapping, Spatial sampling method
@@ -36,8 +40,10 @@
 <a name="Publications"></a>
 
 # Publications
-- **Google Scholar**: [https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en](https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en)
-- **Research Gate**: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
+- **Google Scholar**: &ensp;[https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en](https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en)
+- **Research Gate**: &ensp;&ensp;[https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
+- **ORCID**: &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
+
 
 ## As first/corresponding author:
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
