@@ -29,7 +29,7 @@
 
 # Research Interests
 <div align="center">
-  <img src="./img/landscape.jpg" width="95%">
+  <img src="./img/landscape.jpg" width="68%">
 </div>
 
 - Geoscience, Remote sensing, GIScience
@@ -40,9 +40,9 @@
 <a name="Publications"></a>
 
 # Publications
-- **Google Scholar**: &ensp;[https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en](https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en)
-- **Research Gate**: &ensp;&ensp;[https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
-- **ORCID**: &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
+- **Google Scholar**: [https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en](https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en)
+- **Research Gate**: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
+- **ORCID**: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
 
 
 ## As first/corresponding author:
