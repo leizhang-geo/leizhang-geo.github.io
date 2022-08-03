@@ -29,7 +29,7 @@
 
 # Research Interests
 <div align="center">
-  <img src="./img/landscape.jpg" width="68%">
+  <img src="./img/landscape.jpg" width="80%">
 </div>
 
 - Geoscience, Remote sensing, GIScience
