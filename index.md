@@ -90,6 +90,8 @@
 <a name="Awards"></a>
 
 # Honors & Awards
+- Awarded as Promising Young Scholar in GIS at the 10th GIS Forum for Colleges and Universities, 2022.
+
 - First Prize in Best Paper Award in conference of graduate students of geographic information science in Jiangsu, China, 2017. Awarded by Geographical Society of China.
 
 - First Prize in Outstanding Graduate Thesis Award of Jiangsu province in China, 2016. Awarded by the Ministry of Education.
