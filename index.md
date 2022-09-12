@@ -84,6 +84,9 @@
 - A CNN-LSTM model for soil organic carbon content prediction using phenological variables \
 **A CNN-LSTM model for SOC preditive mapping** <[Code](https://github.com/leizhang-geo/CNN-LSTM_for_DSM.git)>
 
+- An Adaptive uncertainty-guided sampling (AUGSS) method for geospatial prediction and its application in digital soil mapping \
+**Uncertainty-guided sampling method** <[Code](https://github.com/leizhang-geo/uncertainty_guided_sampling.git)>
+
 - Spatiotemporal causal convolutional network for predicting air pullution (PM2.5) concentrations \
 **ST-CausalConvNet** <[Code](https://github.com/leizhang-geo/ST-CausalConvNet.git)>
 
