@@ -50,7 +50,7 @@
 
 - **Zhang, L.**, Cai, Y., Huang, H., Li, A., Yang, L., Zhou, C., 2022. A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables. *Remote Sensing* 14, 4441. https://doi.org/10.3390/rs14184441
 
-- **Zhang, L.** et al. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science* (Accepted)
+- **Zhang, L.**, Zhu, A.-X., Liu, J., Ma, T., Yang, L., Zhou, C., 2022. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science* https://doi.org/10.1080/13658816.2022.2125973
 
 - **Zhang, L.**, Yang, L., Cai, Y., Huang, H., Shi, J., Zhou, C., 2022. A multiple soil properties oriented representative sampling strategy for digital soil mapping. *Geoderma* 406, 115531. https://doi.org/10.1016/j.geoderma.2021.115531
 
