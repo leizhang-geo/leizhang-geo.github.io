@@ -27,11 +27,11 @@
 
 <a name="Research"></a>
 
-# Research Interests
 <div align="center">
   <img src="./img/landscape.jpg" width="80%">
 </div>
 
+# Research Interests
 - Geoscience, Remote sensing, GIScience
 - Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
 - Geostatistics, Spatial predictive model, Digital soil mapping, Spatial sampling method
@@ -58,7 +58,7 @@
 
 - **Zhang, L.**, Na, J., Zhu, J., Shi, Z., Zou, C., Yang, L., 2021. Spatiotemporal causal convolutional network for forecasting hourly PM2.5 concentrations in Beijing, China. *Computers & Geosciences* 155, 104869. https://doi.org/10.1016/j.cageo.2021.104869
 
-- **张磊**, 朱阿兴, 琳杨, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090.
+- **张磊**, 朱阿兴, 琳杨, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090. https://doi.org/10.11766/trxb201701030562
 
 ## As co-author:
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
