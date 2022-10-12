@@ -9,6 +9,10 @@
       <b>School of Geography and Ocean Science</b><br/>
       <b>Nanjing University</b><br/>
       <b>163 Xianlin Road, Qixia District, Nanjing 210023, China</b><br/>
+      <br/>
+      <b>Visiting researcher at Soil Geography and Landscape Group</b><br/>
+      <b>Wageningen University & Research</b><br/>
+      <br/>
       <b>Email：lei.zhang.geo@outlook.com; zhanglei@smail.nju.edu.cn</b><br/>
     </td>
   </tr>
@@ -47,6 +51,7 @@
 
 ## As first/corresponding author:
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
+<a href="./articles/2022_Zhang et al._Direct and indirect impacts of urbanization on vegetation growth across the world’s cities.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Cai, Y., Huang, H., Li, A., Yang, L., Zhou, C., 2022. A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables. *Remote Sensing* 14, 4441. https://doi.org/10.3390/rs14184441
 
@@ -59,6 +64,7 @@
 - **Zhang, L.**, Na, J., Zhu, J., Shi, Z., Zou, C., Yang, L., 2021. Spatiotemporal causal convolutional network for forecasting hourly PM2.5 concentrations in Beijing, China. *Computers & Geosciences* 155, 104869. https://doi.org/10.1016/j.cageo.2021.104869
 
 - **张磊**, 朱阿兴, 琳杨, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090. https://doi.org/10.11766/trxb201701030562
+<a href="./articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
@@ -93,6 +99,8 @@
 <a name="Awards"></a>
 
 # Honors & Awards
+- Awarded as a visiting researcher at Wageningen University & Research (Soil Geography and Landscape Group) funded by the China Scholarship Council, 2022-2023.
+
 - Awarded as Promising Young Scholar in GIS at the 10th GIS Forum for Colleges and Universities, 2022.
 
 - First Prize in Best Paper Award in conference of graduate students of geographic information science in Jiangsu, China, 2017. Awarded by Geographical Society of China.
