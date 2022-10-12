@@ -55,21 +55,27 @@
 <a href="./articles/2022_Zhang et al._Direct and indirect impacts of urbanization on vegetation growth across the world’s cities.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Cai, Y., Huang, H., Li, A., Yang, L., Zhou, C., 2022. A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables. *Remote Sensing* 14, 4441. https://doi.org/10.3390/rs14184441
+<a href="https://doi.org/10.3390/rs14184441" target="_blank">[Web]</a>
 <a href="./articles/2022_Zhang et al._A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Zhu, A.-X., Liu, J., Ma, T., Yang, L., Zhou, C., 2022. An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping. *International Journal of Geographical Information Science* https://doi.org/10.1080/13658816.2022.2125973
+<a href="https://doi.org/10.1080/13658816.2022.2125973" target="_blank">[Web]</a>
 <a href="./articles/2022_Zhang et al._An adaptive uncertainty-guided sampling method for geospatial prediction and its application in digital soil mapping.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Yang, L., Cai, Y., Huang, H., Shi, J., Zhou, C., 2022. A multiple soil properties oriented representative sampling strategy for digital soil mapping. *Geoderma* 406, 115531. https://doi.org/10.1016/j.geoderma.2021.115531
+<a href="https://doi.org/10.1016/j.geoderma.2021.115531" target="_blank">[Web]</a>
 <a href="./articles/2022_Zhang et al._A multiple soil properties oriented representative sampling strategy for digital soil mapping.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Yang, L., Ma, T., Shen, F., Cai, Y., Zhou, C., 2021. A self-training semi-supervised machine learning method for predictive mapping of soil classes with limited sample data. *Geoderma* 384, 114809. https://doi.org/10.1016/j.geoderma.2020.114809
+<a href="https://doi.org/10.1016/j.geoderma.2020.114809" target="_blank">[Web]</a>
 <a href="./articles/2021_Zhang et al._A self-training semi-supervised machine learning method for predictive mapping of soil classes with limited sample data.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Na, J., Zhu, J., Shi, Z., Zou, C., Yang, L., 2021. Spatiotemporal causal convolutional network for forecasting hourly PM2.5 concentrations in Beijing, China. *Computers & Geosciences* 155, 104869. https://doi.org/10.1016/j.cageo.2021.104869
+<a href="https://doi.org/10.1016/j.cageo.2021.104869" target="_blank">[Web]</a>
 <a href="./articles/2021_Zhang et al._Spatiotemporal causal convolutional network for forecasting hourly PM2.pdf" target="_blank">[PDF]</a>
 
 - **张磊**, 朱阿兴, 琳杨, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090. https://doi.org/10.11766/trxb201701030562
+<a href="https://doi.org/10.11766/trxb201701030562" target="_blank">[Web]</a>
 <a href="./articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
