@@ -80,18 +80,32 @@
 
 ## As co-author:
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
+<a href="https://doi.org/10.3390/rs14020310" target="_blank">[Web]</a>
+<a href="./articles/co/2022_Wu et al._Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images.pdf" target="_blank">[PDF]</a>
 
 - Guo, M., Yang, L., Shen, F., **Zhang, L.**, Li, A., Cai, Y., Zhou, C., 2022. Impact of socio-economic environment and its interaction on the initial spread of COVID-19 in mainland China. *Geospatial Health* 17. https://doi.org/10.4081/gh.2022.1060
+<a href="https://doi.org/10.4081/gh.2022.1060" target="_blank">[Web]</a>
+<a href="./articles/co/2022_Guo et al._Impact of socio-economic environment and its interaction on the initial spread of COVID-19 in mainland China.pdf" target="_blank">[PDF]</a>
 
 - Yang, L., Shen, F., **Zhang, L.**, Cai, Y., Yi, F., Zhou, C., 2021. Quantifying influences of natural and anthropogenic factors on vegetation changes using structural equation modeling: A case study in Jiangsu Province, China. *Journal of Cleaner Production* 280, 124330. https://doi.org/10.1016/j.jclepro.2020.124330
+<a href="https://doi.org/10.1016/j.jclepro.2020.124330" target="_blank">[Web]</a>
+<a href="./articles/co/2021_Yang et al._Quantifying influences of natural and anthropogenic factors on vegetation changes using structural equation modeling.pdf" target="_blank">[PDF]</a>
 
 - Yang, L., Cai, Y., **Zhang, L.**, Guo, M., Li, A., Zhou, C., 2021. A deep learning method to predict soil organic carbon content at a regional scale using satellite-based phenology variables. *International Journal of Applied Earth Observation and Geoinformation* 102, 102428. https://doi.org/10.1016/j.jag.2021.102428
+<a href="https://doi.org/10.1016/j.jag.2021.102428" target="_blank">[Web]</a>
+<a href="./articles/co/2021_Yang et al._A deep learning method to predict soil organic carbon content at a regional scale using satellite-based phenology variables.pdf" target="_blank">[PDF]</a>
 
 - Yang, L., Li, X., Yang, Q., **Zhang, L.**, Zhang, S., Wu, S., Zhou, C., 2021. Extracting knowledge from legacy maps to delineate eco-geographical regions. *International Journal of Geographical Information Science* 35, 250–272. https://doi.org/10.1080/13658816.2020.1806284
+<a href="https://doi.org/10.1080/13658816.2020.1806284" target="_blank">[Web]</a>
+<a href="./articles/co/2021_Yang et al._Extracting knowledge from legacy maps to delineate eco-geographical regions.pdf" target="_blank">[PDF]</a>
 
 - He, X., Yang, L., Li, A., **Zhang, L.**, Shen, F., Cai, Y., Zhou, C., 2021. Soil organic carbon prediction using phenological parameters and remote sensing variables generated from Sentinel-2 images. *CATENA* 205, 105442. https://doi.org/10.1016/j.catena.2021.105442
+<a href="https://doi.org/10.1016/j.catena.2021.105442" target="_blank">[Web]</a>
+<a href="./articles/co/2021_He et al._Soil organic carbon prediction using phenological parameters and remote sensing variables generated from Sentinel-2 images.pdf" target="_blank">[PDF]</a>
 
 - Ma, T., Brus, D.J., Zhu, A.-X., **Zhang, L.**, Scholten, T., 2020. Comparison of conditioned Latin hypercube and feature space coverage sampling for predicting soil classes using simulation from soil maps. *Geoderma* 370, 114366. https://doi.org/10.1016/j.geoderma.2020.114366
+<a href="https://doi.org/10.1016/j.geoderma.2020.114366" target="_blank">[Web]</a>
+<a href="./articles/co/2020_Ma et al._Comparison of conditioned Latin hypercube and feature space coverage sampling for predicting soil classes using simulation from.pdf" target="_blank">[PDF]</a>
 
 <a name="Codes"></a>
 
