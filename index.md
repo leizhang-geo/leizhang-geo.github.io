@@ -13,7 +13,7 @@
       <b>Visiting researcher at Soil Geography and Landscape Group</b><br/>
       <b>Wageningen University & Research</b><br/>
       <!-- <br/> -->
-      <b>Email：lei.zhang.geo@outlook.com; zhanglei@smail.nju.edu.cn</b><br/>
+      <b>Email：lei.zhang.geo@outlook.com; zhanglei@smail.nju.edu.cn; lei6.zhang@wur.nl</b><br/>
     </td>
   </tr>
 </table>
