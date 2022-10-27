@@ -44,7 +44,7 @@
 <a name="Publications"></a>
 
 # Publications
-- **Google Scholar**: [https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en](https://scholar.google.com/citations?user=o2pRYDYAAAAJ&hl=en)
+- **Google Scholar**: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
 - **Research Gate**: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
 - **ORCID**: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
 
@@ -79,6 +79,10 @@
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
+- Shen, F., Yang, L., **Zhang, L.**, Guo, M., Huang, H., Zhou, C., 2023. Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects with economic development and climate change in jiangsu, China. Journal of Environmental Management 325, 116562. https://doi.org/10.1016/j.jenvman.2022.116562
+<a href="https://doi.org/10.1016/j.jenvman.2022.116562" target="_blank">[Web]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Shen et al._Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects.pdf" target="_blank">[PDF]</a>
+
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
 <a href="https://doi.org/10.3390/rs14020310" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2022_Wu et al._Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images.pdf" target="_blank">[PDF]</a>
