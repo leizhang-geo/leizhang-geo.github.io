@@ -79,7 +79,7 @@
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
-- Shen, F., Yang, L., **Zhang, L.**, Guo, M., Huang, H., Zhou, C., 2023. Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects with economic development and climate change in jiangsu, China. Journal of Environmental Management 325, 116562. https://doi.org/10.1016/j.jenvman.2022.116562
+- Shen, F., Yang, L., **Zhang, L.**, Guo, M., Huang, H., Zhou, C., 2023. Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects with economic development and climate change in jiangsu, China. *Journal of Environmental Management* 325, 116562. https://doi.org/10.1016/j.jenvman.2022.116562
 <a href="https://doi.org/10.1016/j.jenvman.2022.116562" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Shen et al._Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects.pdf" target="_blank">[PDF]</a>
 
