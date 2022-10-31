@@ -47,9 +47,11 @@
 - **Google Scholar**: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
 - **Research Gate**: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
 - **ORCID**: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
+- **Personal profile at WUR**: [https://www.wur.nl/en/persons/lei-l-lei-zhang.htm](https://www.wur.nl/en/persons/lei-l-lei-zhang.htm)
 
 
 ## As first/corresponding author:
+- **Zhang, L.** et al. Global patterns of top- and subsoil organic carbon turnover times (preparing to submit)
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
 <a href="https://doi.org/10.1126/sciadv.abo0095" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2022_Zhang et al._Direct and indirect impacts of urbanization on vegetation growth across the world’s cities.pdf" target="_blank">[PDF]</a>
@@ -114,6 +116,9 @@
 <a name="Codes"></a>
 
 # Codes
+- Global patterns of top- and subsoil organic carbon turnover times \
+**Global Soil Carbon Turnover Time** <[Code](https://github.com/leizhang-geo/global_soil_carbon_turnover_time.git)>
+
 - Direct and indirect impacts of urbanization on vegetation growth across the world’s cities \
 **Global urban vegetation analysis** <[Code](https://github.com/leizhang-geo/Global_Urbanization_Impacts_on_Vegetation.git)>
 
