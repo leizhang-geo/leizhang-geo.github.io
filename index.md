@@ -86,6 +86,9 @@
 <a href="https://doi.org/10.1016/j.jenvman.2022.116562" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Shen et al._Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects.pdf" target="_blank">[PDF]</a>
 
+- Huang, H., Yang, L., **Zhang, L.**, Pu, Y., Yang, C., Cai, Y., Zhou, C., 2022. A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect. *Environmental Research Letters* 
+<a href="https://doi.org/10.1088/1748-9326/aca41e" target="_blank">[Web]</a>
+
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
 <a href="https://doi.org/10.3390/rs14020310" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2022_Wu et al._Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images.pdf" target="_blank">[PDF]</a>
