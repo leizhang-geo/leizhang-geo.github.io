@@ -88,7 +88,7 @@
 
 - Huang, H., Yang, L., **Zhang, L.**, Pu, Y., Yang, C., Wu, Q., Cai, Y., Shen, F., Zhou, C., 2022. A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect. *Environmental Research Letters* 17, 123004. https://doi.org/10.1088/1748-9326/aca41e
 <a href="https://doi.org/10.1088/1748-9326/aca41e" target="_blank">[Web]</a>
-<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2022_Huang et al._A review on digital mapping of soil carbon in cropland" target="_blank">[PDF]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2022_Huang et al._A review on digital mapping of soil carbon in cropland.pdf" target="_blank">[PDF]</a>
 
 - Wu, Q., Miao, S., Huang, H., Guo, M., **Zhang, L.**, Yang, L., Zhou, C., 2022. Quantitative Analysis on Coastline Changes of Yangtze River Delta based on High Spatial Resolution Remote Sensing Images. *Remote Sensing* 14, 310. https://doi.org/10.3390/rs14020310
 <a href="https://doi.org/10.3390/rs14020310" target="_blank">[Web]</a>
