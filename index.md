@@ -77,7 +77,7 @@
 <a href="https://doi.org/10.1016/j.cageo.2021.104869" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2021_Zhang et al._Spatiotemporal causal convolutional network for forecasting hourly PM2.pdf" target="_blank">[PDF]</a>
 
-- **张磊**, 朱阿兴, 琳杨, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090. https://doi.org/10.11766/trxb201701030562
+- **张磊**, 朱阿兴, 杨琳, 秦承志, 刘军志, 刘雪琦, 2017. 基于分融策略的土壤采样设计方法. *土壤学报* 54, 1079–1090. https://doi.org/10.11766/trxb201701030562
 <a href="https://doi.org/10.11766/trxb201701030562" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
