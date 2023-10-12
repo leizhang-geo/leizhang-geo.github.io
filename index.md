@@ -84,11 +84,11 @@
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
-- Pu, Y., Yang, L., **Zhang, L.**, Huang, H., Zhang, G., Zhou, C., 2024. Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China over three decades. Agriculture, Ecosystems & Environment 359, 108749. https://doi.org/10.1016/j.agee.2023.108749
+- Pu, Y., Yang, L., **Zhang, L.**, Huang, H., Zhang, G., Zhou, C., 2024. Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China over three decades. *Agriculture, Ecosystems & Environment* 359, 108749. https://doi.org/10.1016/j.agee.2023.108749
 <a href="https://doi.org/10.1016/j.agee.2023.108749" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2024_Pu et al._Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China.pdf" target="_blank">[PDF]</a>
 
-- Yang, C., Yang, L., **Zhang, L.**, Zhou, C., 2023. Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms decomposed variables. Geoderma 437, 116571. https://doi.org/10.1016/j.geoderma.2023.116571
+- Yang, C., Yang, L., **Zhang, L.**, Zhou, C., 2023. Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms decomposed variables. *Geoderma* 437, 116571. https://doi.org/10.1016/j.geoderma.2023.116571
 <a href="https://doi.org/10.1016/j.geoderma.2023.116571" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Yang et al._Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms.pdf" target="_blank">[PDF]</a>
 
