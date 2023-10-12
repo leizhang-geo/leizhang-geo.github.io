@@ -51,7 +51,9 @@
 
 
 ## As first/corresponding author:
-- **Zhang, L.** et al. Global patterns of top- and subsoil organic carbon turnover times (preparing to submit)
+- **Zhang, L.** et al. Global patterns and controls of top- and subsoil organic carbon turnover times (in prep.)
+
+- **Zhang, L.** et al. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time (in prep.)
 
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
 <a href="https://doi.org/10.1126/sciadv.abo0095" target="_blank">[Web]</a>
@@ -82,6 +84,14 @@
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2017_张磊 et al._基于分融策略的土壤采样设计方法.pdf" target="_blank">[PDF]</a>
 
 ## As co-author:
+- Pu, Y., Yang, L., **Zhang, L.**, Huang, H., Zhang, G., Zhou, C., 2024. Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China over three decades. Agriculture, Ecosystems & Environment 359, 108749. https://doi.org/10.1016/j.agee.2023.108749
+<a href="https://doi.org/10.1016/j.agee.2023.108749" target="_blank">[Web]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2024_Pu et al._Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China.pdf" target="_blank">[PDF]</a>
+
+- Yang, C., Yang, L., **Zhang, L.**, Zhou, C., 2023. Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms decomposed variables. Geoderma 437, 116571. https://doi.org/10.1016/j.geoderma.2023.116571
+<a href="https://doi.org/10.1016/j.geoderma.2023.116571" target="_blank">[Web]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Yang et al._Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms.pdf" target="_blank">[PDF]</a>
+
 - Shen, F., Yang, L., **Zhang, L.**, Guo, M., Huang, H., Zhou, C., 2023. Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects with economic development and climate change in jiangsu, China. *Journal of Environmental Management* 325, 116562. https://doi.org/10.1016/j.jenvman.2022.116562
 <a href="https://doi.org/10.1016/j.jenvman.2022.116562" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2023_Shen et al._Quantifying the direct effects of long-term dynamic land use intensity on vegetation change and its interacted effects.pdf" target="_blank">[PDF]</a>
@@ -139,7 +149,7 @@
 <a name="Awards"></a>
 
 # Honors & Awards
-- Awarded as a visiting researcher at Wageningen University & Research (Soil Geography and Landscape Group) funded by the China Scholarship Council, 2022-2023.
+- Awarded as a guest researcher at Wageningen University & Research (Soil Geography and Landscape Group) funded by the China Scholarship Council, 2022-2023.
 
 - Awarded as Promising Young Scholar in GIS at the 10th GIS Forum for Colleges and Universities, 2022.
 
