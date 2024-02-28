@@ -56,7 +56,7 @@
 ## As first/corresponding author:
 - **Zhang, L.** et al. Global patterns and controls of top- and subsoil organic carbon turnover times (in prep.)
 
-- **Zhang, L.**, Heuvelink, G.B.M., Mulder, V.L., Chen, S., Deng, X., Yang, L., 2024. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time. Science of The Total Environment 170778. https://doi.org/10.1016/j.scitotenv.2024.170778
+- **Zhang, L.**, Heuvelink, G.B.M., Mulder, V.L., Chen, S., Deng, X., Yang, L., 2024. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time. *Science of The Total Environment* 170778. https://doi.org/10.1016/j.scitotenv.2024.170778
 <a href="https://doi.org/10.1016/j.scitotenv.2024.170778" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2024_Zhang et al._Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time.pdf" target="_blank">[PDF]</a>
 
