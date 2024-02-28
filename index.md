@@ -10,10 +10,10 @@
       <b>Nanjing University</b><br/>
       <b>163 Xianlin Road, Qixia District, Nanjing 210023, China</b><br/>
       <!-- <br/> -->
-      <b>Visiting researcher at Soil Geography and Landscape Group</b><br/>
+      <b>Guest researcher at Soil Geography and Landscape Group</b><br/>
       <b>Wageningen University & Research</b><br/>
       <!-- <br/> -->
-      <b>Email：lei.zhang.geo@outlook.com; zhanglei@smail.nju.edu.cn; lei6.zhang@wur.nl</b><br/>
+      <b>Email：lei.zhang.geo@outlook.com; zhanglei@smail.nju.edu.cn</b><br/>
     </td>
   </tr>
 </table>
@@ -36,10 +36,14 @@
 </div>
 
 # Research Interests
-- Geoscience, Remote sensing, GIScience
-- Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
-- Geostatistics, Spatial predictive model, Digital soil mapping, Spatial sampling method
-- Machine learning, Deep learning
+- The spatiotemporal variations and linkages in aboveground vegetation growth and belowground soil carbon under the impacts of climate change and human activities
+- Modelling geographic variables in space and time by integrating knowledge-guided process-oriented models and data-driven machine learning models
+
+- Keywords:
+  - Geoscience, Remote sensing, GIScience
+  - Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
+  - Space and time, Geostatistics, Spatial predictive model, Digital soil mapping, Spatial sampling method
+  - Machine learning, Deep learning
 
 <a name="Publications"></a>
 
@@ -47,13 +51,14 @@
 - **Google Scholar**: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
 - **Research Gate**: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
 - **ORCID**: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
-- **Personal profile at WUR**: [https://www.wur.nl/en/persons/lei-l-lei-zhang.htm](https://www.wur.nl/en/persons/lei-l-lei-zhang.htm)
 
 
 ## As first/corresponding author:
 - **Zhang, L.** et al. Global patterns and controls of top- and subsoil organic carbon turnover times (in prep.)
 
-- **Zhang, L.** et al. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time (in prep.)
+- **Zhang, L.**, Heuvelink, G.B.M., Mulder, V.L., Chen, S., Deng, X., Yang, L., 2024. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time. Science of The Total Environment 170778. https://doi.org/10.1016/j.scitotenv.2024.170778
+<a href="https://doi.org/10.1016/j.scitotenv.2024.170778" target="_blank">[Web]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2024_Zhang et al._Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
 <a href="https://doi.org/10.1126/sciadv.abo0095" target="_blank">[Web]</a>
@@ -87,6 +92,10 @@
 - Pu, Y., Yang, L., **Zhang, L.**, Huang, H., Zhang, G., Zhou, C., 2024. Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China over three decades. *Agriculture, Ecosystems & Environment* 359, 108749. https://doi.org/10.1016/j.agee.2023.108749
 <a href="https://doi.org/10.1016/j.agee.2023.108749" target="_blank">[Web]</a>
 <a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2024_Pu et al._Major contributions of agricultural management practices to topsoil organic carbon distribution and accumulation in croplands of East China.pdf" target="_blank">[PDF]</a>
+
+- Li Anqi, Yang Lin, Cai Yanyan, **Zhang Lei**, Huang Haili, Wu Qi, Wang Wenqi. Digital mapping of soil fertility attributes in croplands in Jiangsu, Zhejiang and Shanghai based on recursive feature elimination-random forest model. *SCIENTIA GEOGRAPHICA SINICA*, 2024, 44(1): 168-178. https://doi.org/10.13249/j.cnki.sgs.20220131
+<a href="http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.20220131" target="_blank">[Web]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/co/2024_李安琪 et al._基于递归特征消除-随机森林模型的江浙沪农田土壤肥力属性制图.pdf" target="_blank">[PDF]</a>
 
 - Yang, C., Yang, L., **Zhang, L.**, Zhou, C., 2023. Soil organic matter mapping using INLA-SPDE with remote sensing based soil moisture indices and Fourier transforms decomposed variables. *Geoderma* 437, 116571. https://doi.org/10.1016/j.geoderma.2023.116571
 <a href="https://doi.org/10.1016/j.geoderma.2023.116571" target="_blank">[Web]</a>
