@@ -58,7 +58,7 @@
 
 - **Zhang, L.**, Heuvelink, G.B.M., Mulder, V.L., Chen, S., Deng, X., Yang, L., 2024. Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time. *Science of The Total Environment* 922, 170778. https://doi.org/10.1016/j.scitotenv.2024.170778
 <a href="https://doi.org/10.1016/j.scitotenv.2024.170778" target="_blank">[Web]</a>
-<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2024_Zhang et al._Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time.pdf" target="_blank">[PDF]</a>
+<a href="https://github.com/leizhang-geo/leizhang-geo.github.io/raw/main/articles/2024_Zhang et al._Using process-oriented model output to enhance machine learning-based soil organic carbon prediction in space and time_corrected.pdf" target="_blank">[PDF]</a>
 
 - **Zhang, L.**, Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095. https://doi.org/10.1126/sciadv.abo0095
 <a href="https://doi.org/10.1126/sciadv.abo0095" target="_blank">[Web]</a>
