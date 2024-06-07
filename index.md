@@ -5,7 +5,7 @@
     </td>
     <td width="70%" align="center" valign="middle">
       <h1><font color="#005AB5">Lei Zhang (张磊)</font></h1>
-      <b>PhD Candidate</b><br/>
+      <b>Ph.D.</b><br/>
       <b>School of Geography and Ocean Science</b><br/>
       <b>Nanjing University</b><br/>
       <b>163 Xianlin Road, Qixia District, Nanjing 210023, China</b><br/>
