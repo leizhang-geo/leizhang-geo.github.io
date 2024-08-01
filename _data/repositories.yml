@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leizhang-geo
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - leizhang-geo/global_soil_carbon_turnover_time
+  - leizhang-geo/Global_Urbanization_Impacts_on_Vegetation
+  - leizhang-geo/CNN-LSTM_for_DSM
+  - leizhang-geo/uncertainty_guided_sampling
+  - leizhang-geo/ST-CausalConvNet
