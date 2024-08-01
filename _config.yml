@@ -94,7 +94,7 @@ osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Lei-Zhang-360 # your profile on ResearchGate
 scholar_userid: aCKgi18AAAAJ&hl # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -188,25 +188,25 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /:collection/:title/
-  projects:
-    output: false
-    permalink: /:collection/:title/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: false
+#     permalink: /:collection/:title/
+#   projects:
+#     output: false
+#     permalink: /:collection/:title/
 
-announcements:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
