@@ -28,12 +28,13 @@ social: true # includes social icons at the bottom of the page
 - Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
 - Space and time, Geostatistics, Spatial predictive model, Digital soil mapping, Spatial sampling method
 - Machine learning, Deep learning
-<p></p>
 
 Full list of publication, see:
 - Google Scholar: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
 - Research Gate: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
 - ORCID: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
+<p></p>
+<p></p>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
