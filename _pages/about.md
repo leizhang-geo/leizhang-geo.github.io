@@ -9,6 +9,7 @@ profile:
   image: prof_pic_LZ.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Lei Zhang (张磊)</p>
     <p>163 Xianlin Road, Qixia District</p>
     <p>Nanjing, Jiangsu 210023, China</p>
 
