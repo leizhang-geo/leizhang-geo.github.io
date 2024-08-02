@@ -1,6 +1,6 @@
 ---
-layout: about
-title: About
+layout: home
+title: Home
 permalink: /
 subtitle: Ph.D., School of Geography and Ocean Science, Nanjing University
 
@@ -25,9 +25,9 @@ social: true # includes social icons at the bottom of the page
 
 **Keywords:**
 - Geoscience, Remote sensing, GIScience
-- Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
+- Global carbon cycle, Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
 - Space and time, Geostatistics, Spatial prediction, Soil carbon modelling, Digital soil mapping, Spatial sampling method
-- Mechanistic model, Machine learning, Deep learning
+- Mechanistic (process-based) model, Machine learning, Deep learning, GeoAI
 
 Full list of publication, see:
 - Google Scholar: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
