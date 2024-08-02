@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: Home
 permalink: /
 subtitle: Ph.D., School of Geography and Ocean Science, Nanjing University
