@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D., Postdoctoral Research Fellow at Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory
+subtitle: Ph.D., Postdoctoral Research Fellow at Lawrence Berkeley National Laboratory (Climate and Ecosystem Sciences Division)
 
 profile:
   align: right
@@ -10,9 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lei Zhang (张磊)</p>
-    <p>Climate and Ecosystem Sciences Division</p>
-    <p>Lawrence Berkeley National Laboratory 210023, China</p>
-    <p>Berkeley, CA, USA</p>
+    <p>Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
