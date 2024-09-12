@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lei Zhang (张磊)</p>
-    <p>Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</p>
+    <p>Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, 94720 USA</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
