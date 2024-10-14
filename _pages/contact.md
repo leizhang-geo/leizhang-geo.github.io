@@ -10,7 +10,7 @@ nav_order: 4
 ----
 **DETAILS**
 
-:email: lei.zhang@lbl.gov 
+:email: lei.zhang@lbl.gov
 
 ----
 **ENQUIRIES**
