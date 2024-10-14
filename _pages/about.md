@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Lei Zhang (张磊)</p>
     <p>Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, 94720 USA</p>
+    <p>Email: lei.zhang@lbl.gov | lei.zhang.geo@outlook.com</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
