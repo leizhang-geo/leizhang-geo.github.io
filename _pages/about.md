@@ -20,16 +20,18 @@ social: true # includes social icons at the bottom of the page
 
 
 **Research Interests:**
+- Apply mechanistic and machine learning models to analyze observed effects of warming on soil and ecosystem carbon cycling, explore the mechanisms shaping the soil response, and estimate potential soil carbon feedbacks with climate
 - The spatiotemporal variations and linkages in aboveground vegetation growth and belowground soil carbon under the impacts of climate change and human activities
 - Modelling geographic variables in space and time by integrating knowledge-guided process-oriented models and data-driven machine learning models
 
 **Keywords:**
-- Geoscience, Remote sensing, GIScience
+- Geoscience, Biogeochemistry, Remote sensing, GIScience
 - Global carbon cycle, Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
 - Space and time, Geostatistics, Spatial prediction, Soil carbon modelling, Digital soil mapping, Spatial sampling method
 - Mechanistic (process-based) model, Machine learning, Deep learning, GeoAI
 
 Full list of publication, see:
+- LBNL profile page: [https://profiles.lbl.gov/482140-lei-zhang](https://profiles.lbl.gov/482140-lei-zhang)
 - Google Scholar: [https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en](https://scholar.google.com/citations?user=aCKgi18AAAAJ&hl=en)
 - Research Gate: [https://www.researchgate.net/profile/Lei-Zhang-360](https://www.researchgate.net/profile/Lei-Zhang-360)
 - ORCID: [https://orcid.org/0000-0002-1090-6338](https://orcid.org/0000-0002-1090-6338)
