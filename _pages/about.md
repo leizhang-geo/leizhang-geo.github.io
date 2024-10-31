@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 
 **Research Interests:**
-- Apply mechanistic and machine learning models to analyze observed effects of warming on soil and ecosystem carbon cycling, explore the mechanisms shaping the soil response, and estimate potential soil carbon feedbacks with climate
+- Applying mechanistic and machine learning models to analyze observed effects of warming on soil and ecosystem carbon cycling, exploring the mechanisms shaping the soil response, and estimating potential soil carbon feedbacks with climate
 - The spatiotemporal variations and linkages in aboveground vegetation growth and belowground soil carbon under the impacts of climate change and human activities
 - Modelling geographic variables in space and time by integrating knowledge-guided process-oriented models and data-driven machine learning models
 
