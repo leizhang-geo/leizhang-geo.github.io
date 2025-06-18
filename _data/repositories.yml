@@ -5,6 +5,8 @@ github_users:
 
 github_repos:
   - leizhang-geo/global_soil_carbon_turnover_time
+  - leizhang-geo/GSoilCPM
+  - leizhang-geo/ecosim_docker
   - leizhang-geo/Global_Urbanization_Impacts_on_Vegetation
   - leizhang-geo/CNN-LSTM_for_DSM
   - leizhang-geo/uncertainty_guided_sampling
