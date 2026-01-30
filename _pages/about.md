@@ -25,10 +25,10 @@ social: true # includes social icons at the bottom of the page
 - Modelling geographic variables in space and time by integrating knowledge-guided process-oriented models and data-driven machine learning models
 
 **Keywords:**
-- Geoscience, Biogeochemistry, Remote sensing, GIScience
-- Global carbon cycle, Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
-- Space and time, Geostatistics, Spatial prediction, Soil carbon modelling, Digital soil mapping, Spatial sampling method
-- Mechanistic (process-based) model, Machine learning, Deep learning, GeoAI
+- Geoscience, Terrestrial Biogeochemistry, Global carbon cycle, Mechanistic (process-based) modelling
+- Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
+- Geostatistics, Spatial prediction, Space-time soil carbon modelling, Pedometrics, Spatial sampling method
+- GIScience, Remote sensing, Machine learning, Deep learning, GeoAI
 
 Full list of publication, see:
 - LBNL profile page: [https://profiles.lbl.gov/482140-lei-zhang](https://profiles.lbl.gov/482140-lei-zhang)
