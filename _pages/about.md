@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 **Keywords:**
 - Geoscience, Terrestrial Biogeochemistry, Global carbon cycle, Mechanistic (process-based) modelling
 - Vegetation and Soil, Soil organic carbon, Interactions between vegetation, soil, climate change, and human activities
-- Geostatistics, Spatial prediction, Space-time soil carbon modelling, Pedometrics, Spatial sampling method
+- Geostatistics, Predictive mapping, Space-time soil carbon modelling, Pedometrics, Spatial sampling method
 - GIScience, Remote sensing, Machine learning, Deep learning, GeoAI
 
 Full list of publication, see:
