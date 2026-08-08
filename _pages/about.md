@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D., Postdoctoral Research Fellow at Lawrence Berkeley National Laboratory (Climate and Ecosystem Sciences Division)
+subtitle: Ph.D., Postdoctoral Research Fellow at Lawrence Berkeley National Laboratory (Climate and Ecosystem Sciences Division); Joint Research Fellow at University of Michigan (Institute for Global Change Biology, School for Environment and Sustainability)
 
 profile:
   align: right
